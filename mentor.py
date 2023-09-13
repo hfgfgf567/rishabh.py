@@ -1,0 +1,7 @@
+print("hello,world!")
+x=int(4.9)
+y=float(9)
+z=complex(0,6)
+print(x)
+print(y)
+print(z)
